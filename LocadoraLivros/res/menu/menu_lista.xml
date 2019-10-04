@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.tcc.locadoralivros.ListaActivity" >
+    
+    <item android:id="@+id/menu_atualizar" 
+          android:title="Atualizar" 
+          android:showAsAction="always"
+          android:icon="@drawable/atualizar"></item>
+    
+    <item android:id="@+id/menu_meusLivros" android:title="Meus Livros"></item>
+
+</menu>
